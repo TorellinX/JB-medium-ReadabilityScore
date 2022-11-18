@@ -1,2 +1,2 @@
 # JB-medium-ReadabilityScore
-Project:  Readability Score from JetBrains Academy
+Project:  [Readability Score](https://hyperskill.org/projects/39) from JetBrains Academy
